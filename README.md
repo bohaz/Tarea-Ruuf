@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="logo.svg" alt="Logo" />
+<img src="assets/logo.svg" alt="Logo" />
   <h2><b> Tarea Ruuf</b></h2>
    
 
