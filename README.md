@@ -2,8 +2,9 @@
 
 
 <div align="center">
-
-  <h3><b>💼 Tarea Ruuf</b></h3>
+<img src="logo.svg" alt="Logo" />
+  <h2><b> Tarea Ruuf</b></h2>
+   
 
 </div>
 
