@@ -57,7 +57,7 @@
 
 ## 🚀 Video Presentation <a name="Video Presentation"></a>
 
-- [Video Link is comming soon!]()
+- [Video Link!](https://youtu.be/LDL5lsFZ3xg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
